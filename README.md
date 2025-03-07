@@ -48,7 +48,6 @@ scikit-learn
 
    ```
 
-5. Make sure you have an OpenRouter API key
 
 ## Usage
 
