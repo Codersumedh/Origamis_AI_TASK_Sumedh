@@ -61,5 +61,5 @@ Add following API KEY in frotend
 ```bash
 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
 ```
-Enter website link and start scrapping 
-Use Query system section to ask Query on website data
+- Enter website link and start scrapping 
+- Use Query system section to ask Query on website data
