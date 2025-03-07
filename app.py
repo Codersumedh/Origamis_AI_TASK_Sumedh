@@ -1,8 +1,6 @@
 import streamlit as st
 import pandas as pd
 import time
-import os
-import sys
 from rag_agent import WebScraper, TextChunker, RAGPipeline, SimpleVectorDB
 
 
