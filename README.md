@@ -42,12 +42,13 @@ scikit-learn
    ```
 
 3. Download required NLTK data:
+   ```
    python -c "import nltk; nltk.download('punkt')"
    python -c "import nltk; nltk.download('punkt_tab')"
 
    ```
 
-4. Make sure you have an OpenRouter API key
+5. Make sure you have an OpenRouter API key
 
 ## Usage
 
