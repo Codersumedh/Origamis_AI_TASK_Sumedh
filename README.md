@@ -59,7 +59,7 @@ streamlit run app.py
 
 Add following API KEY in frotend
 ```bash
-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)
+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
 ```
 Enter website link and start scrapping 
 Use Query system section to ask Query on website data
